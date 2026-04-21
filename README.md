@@ -115,27 +115,10 @@ Combines the strengths of three powerful algorithms:
 
 *Scores optimized for business KPIs with threshold tuning*
 
----
-
-## 📁 Repository Structure
-
-```
-telco-churn-analysis/
-├── main.ipynb                 # Main analysis notebook
-├── README.md                  # This file
-├── data/
-│   └── WA_Fn-UseC_-_Telco_Customer_Churn.csv
-├── models/
-│   └── ensemble_classifier.pkl
-└── visualizations/
-    ├── churn_distribution.png
-    ├── feature_importance.png
-    └── roc_curves.png
-```
 
 ---
 
-## 🛠️ Technologies & Libraries
+## Technologies & Libraries
 
 **Data Processing:**
 - `pandas` - Data manipulation and analysis
@@ -153,20 +136,20 @@ telco-churn-analysis/
 
 ---
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 This project demonstrates proficiency in:
-- ✅ **Exploratory Data Analysis (EDA)** - Understanding complex datasets
-- ✅ **Feature Engineering** - Creating predictive variables from raw data
-- ✅ **Class Imbalance Handling** - SMOTE and cost-sensitive learning
-- ✅ **Ensemble Methods** - Combining multiple models for better predictions
-- ✅ **Model Validation** - Cross-validation and proper train/test splitting
-- ✅ **Business Alignment** - Optimizing for business objectives (not just accuracy)
-- ✅ **Statistical Analysis** - OLS regression, residual diagnostics
+- **Exploratory Data Analysis (EDA)** - Understanding complex datasets
+- **Feature Engineering** - Creating predictive variables from raw data
+- **Class Imbalance Handling** - SMOTE and cost-sensitive learning
+- **Ensemble Methods** - Combining multiple models for better predictions
+- **Model Validation** - Cross-validation and proper train/test splitting
+- **Business Alignment** - Optimizing for business objectives (not just accuracy)
+- **Statistical Analysis** - OLS regression, residual diagnostics
 
 ---
 
-## 💡 Business Impact
+## Business Impact
 
 **Potential ROI:**
 - Identify 70-80% of at-risk customers before churn
@@ -190,11 +173,6 @@ This project demonstrates proficiency in:
 
 ---
 
-## 📝 License
-
-This project is provided as-is for educational and professional purposes.
-
----
 
 **Last Updated:** January 2026  
 **Status:** ✅ Complete & Production-Ready
